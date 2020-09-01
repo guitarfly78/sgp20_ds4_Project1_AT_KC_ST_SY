@@ -15,3 +15,4 @@ This can easily be broken down by day, in case there are slight differences amon
 11) Geographic & demographic information about areas around stations
 12) Design some A/B tests or similar experiments to gather data informed feedback 
 13) design for you an optimizer that assigns deployments and collects signature results in real time
+http://web.mta.info/developers/turnstile.html
